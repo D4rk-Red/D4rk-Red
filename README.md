@@ -1,6 +1,6 @@
 ## Hi there
 
-Welcome to my GitHub profile repository.
+Welcome to my GitHub profile.
 
 Here you’ll find:
 - Personal projects
